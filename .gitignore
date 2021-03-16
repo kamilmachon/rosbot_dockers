@@ -1,0 +1,5 @@
+.vscode
+*.notes
+*.pyc
+__pycache__
+CATKIN_IGNORE
